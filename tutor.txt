@@ -133,10 +133,9 @@ Notice that  ce  deletes the word and places you in Insert mode.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
- ** Type  o  to open a line below the cursor and place you in Insert mode. **
-    To open up a line ABOVE the cursor, simply type a capital O
+     ** Write word "above" above the line and word "under" under the line **
 
----> Open up a line above this by typing O while the cursor is on this line.
+---> Open up a line using O and o while the cursor is on this line.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 	     ** Type  a  to insert text AFTER the cursor. **
