@@ -12,10 +12,10 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 			** Press  A  to append text. **
 
----> There is some text missing from th
-     There is some text missing from this line.
----> There is also some text miss
-     There is also some text missing here.
+---> Text written specifically to increase the length of the line. There is some text missing from th
+     Text written specifically to increase the length of the line. There is some text missing from this line.
+---> Text written specifically to increase the length of the line. We need mooooooooooore text. There is some text missing from th
+     Text written specifically to increase the length of the line. We need mooooooooooore text. There is some text missing from this line.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		       ** Type  dw  to delete a word. **
