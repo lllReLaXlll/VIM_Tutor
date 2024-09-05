@@ -81,6 +81,12 @@ Notice that  ce  deletes the word and places you in Insert mode.
              cc  does the same for the whole line.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	   ** To change the whole word, type ciw or caw. **
+
+---> Please asdflj delete sdfhih few unnecessary words blahblahbla
+---> Please asdflj   delete sdfhih  few unnecessary words blahblahbla
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
        ** c    [number]   motion **
 
 ---> The end of this line needs some help to make it like the second.
